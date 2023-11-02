@@ -11,13 +11,13 @@
     "sanity-plugin",
     "media"
   ],
-  "homepage": "https://github.com/sanity-io/sanity-plugin-mux-input#readme",
+  "homepage": "https://github.com/TomasCarlson/sanit-mux-quickfix#readme",
   "bugs": {
-    "url": "https://github.com/sanity-io/sanity-plugin-mux-input/issues"
+    "url": "https://github.com/TomasCarlson/sanit-mux-quickfix/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:sanity-io/sanity-plugin-mux-input.git"
+    "url": "git@github.com:TomasCarlson/sanit-mux-quickfix.git"
   },
   "license": "MIT",
   "author": "Sanity.io <hello@sanity.io>",
